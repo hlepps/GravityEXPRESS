@@ -1,20 +1,21 @@
 Edytor edytuje plik lvl.gex
-ten mo¿na podmieniæ na dowolny inny
+ten moÅ¼na podmieniÄ‡ na dowolny inny
 np.
-	chcemy edytowaæ poziom 5 - zmieniamy nazwê z lvl5.gex na lvl.gex, edytujemy wtedy
-nowe poziomy dodajemy wpisuj¹c wieksz¹ liczbê na koñcu
-nie musi byæ nastêpna wolna, gra poszuka nastêpnej (bez przesady, przy wiêkszych odstêpach mo¿e to trochê potrwaæ)
+	chcemy edytowaÄ‡ poziom 5 - zmieniamy nazwÄ™ z lvl5.gex na lvl.gex, edytujemy wtedy
+nowe poziomy dodajemy wpisujÄ…c wiekszÄ… liczbÄ™ na koÅ„cu
+nie musi byÄ‡ nastÄ™pna wolna, gra poszuka nastÄ™pnej (bez przesady, przy wiÄ™kszych odstÄ™pach moÅ¼e to trochÄ™ potrwaÄ‡)
 
 
-W, S, A, D -- przesuniêcie wszystkich ruchomych bloków w danym kierunku
-Spacja (menu) - wybór
+W, S, A, D -- przesuniÄ™cie wszystkich ruchomych blokÃ³w w danym kierunku
+Spacja (menu) - wybÃ³r
 
-O,P -- cheatowanie (nie polecam, chyba ¿eby sprawdzic póŸniejszy poziom)
+O,P -- cheatowanie (nie polecam, chyba Å¼eby sprawdzic pÃ³Åºniejszy poziom)
 
 
 ---- edytor
 
-Q, W -- wybór bloku
+Q, W -- wybÃ³r bloku
 Spacja - postawienie bloku 
 O - wczytaj
 P - zapisz
+
