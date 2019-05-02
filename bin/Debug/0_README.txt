@@ -15,6 +15,6 @@ O,P -- cheatowanie (nie polecam, chyba ¿eby sprawdzic póŸniejszy poziom)
 ---- edytor
 
 Q, W -- wybór bloku
-Spacja - postawienie bloku
+Spacja - postawienie bloku 
 O - wczytaj
 P - zapisz
