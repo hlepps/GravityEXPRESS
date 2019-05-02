@@ -1,0 +1,38 @@
+
+-7 - yellow input
+
+-6 - yellow box (2)
+
+-5 - lose
+
+-4 - red input
+
+-3 - red box (1)
+
+-2 - exit
+
+-1 - next lvl
+
+0 - nic
+
+1 - tlo
+
+2 - sciana 1
+
+3 - sciana 2
+
+4 - rog 1
+
+5 - rog 2
+
+6 - rog 3
+
+7 - rog 4
+
+8 - triple 1 dol
+
+9 - triple 2 lewo
+
+10 - triple 3 gora
+
+11 - triple 4 prawo
